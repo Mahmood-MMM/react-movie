@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-movie/static/css/main.f2913f0b.chunk.css",
+    "main.js": "/react-movie/static/js/main.3efc324c.chunk.js",
+    "main.js.map": "/react-movie/static/js/main.3efc324c.chunk.js.map",
+    "runtime-main.js": "/react-movie/static/js/runtime-main.ed0ecbce.js",
+    "runtime-main.js.map": "/react-movie/static/js/runtime-main.ed0ecbce.js.map",
+    "static/css/2.25dc03cb.chunk.css": "/react-movie/static/css/2.25dc03cb.chunk.css",
+    "static/js/2.0bab7ede.chunk.js": "/react-movie/static/js/2.0bab7ede.chunk.js",
+    "static/js/2.0bab7ede.chunk.js.map": "/react-movie/static/js/2.0bab7ede.chunk.js.map",
+    "index.html": "/react-movie/index.html",
+    "static/css/2.25dc03cb.chunk.css.map": "/react-movie/static/css/2.25dc03cb.chunk.css.map",
+    "static/css/main.f2913f0b.chunk.css.map": "/react-movie/static/css/main.f2913f0b.chunk.css.map",
+    "static/js/2.0bab7ede.chunk.js.LICENSE.txt": "/react-movie/static/js/2.0bab7ede.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/react-movie/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/react-movie/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/react-movie/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed0ecbce.js",
+    "static/css/2.25dc03cb.chunk.css",
+    "static/js/2.0bab7ede.chunk.js",
+    "static/css/main.f2913f0b.chunk.css",
+    "static/js/main.3efc324c.chunk.js"
+  ]
+}
